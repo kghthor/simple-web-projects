@@ -152,7 +152,7 @@ A modern design concept to showcase content in a container with two splitted sec
 
 Cool loading animation with pure CSS. Animation contains sliding and floating boxes, designed by [Vitaly Silkin](https://dribbble.com/shots/4268258-Evitare-loader).
 
-**[Online Demo](https://kghthor.github.io/simple-web-projects/10.css-escape-loading-animation/)**
+**[Online Demo](https://kghthor.github.io/simple-web-projects/11.css-escape-loading-animation/)**
 
 **Special topics covered:**
 
@@ -164,7 +164,7 @@ Cool loading animation with pure CSS. Animation contains sliding and floating bo
 
 It is an image slider with 3D animation that changes slides automatically based on a duration time. By hovering the mouse on slides, the animation will be paused.
 
-**[Online Demo](https://kghthor.github.io/simple-web-projects/11.image-slider-3d/)**
+**[Online Demo](https://kghthor.github.io/simple-web-projects/12.image-slider-3d/)**
 
 **Special topics covered:**
 
