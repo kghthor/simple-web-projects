@@ -1,7 +1,7 @@
 # Practical Front-End Projects with Pure Javascript, CSS, and HTML
 
 Welcome to the Practical Front-End Projects repository! This collection offers a range of practical and user-friendly projects for front-end enthusiasts and beginners. The primary objective of this repository is to facilitate learning. All the code samples provided are free and will always remain so.
-
+   
 ## Key Features
 
 - **No Bundlers**: The projects in this repository have been developed without the use of bundlers like Webpack or Gulp. This allows you to focus on the core front-end concepts and techniques, without getting tangled in the complexities of build tools.
