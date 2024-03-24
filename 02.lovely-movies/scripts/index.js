@@ -1,4 +1,4 @@
-"use strict";
+"use strict"; 
 
 const resultWrapper = document.getElementById("result-wrapper");
 const detailsWrapper = document.getElementById("id-details-wrapper");
