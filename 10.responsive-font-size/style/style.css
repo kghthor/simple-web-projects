@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;800&display=swap');
 
 :root {
-  --body-bg: #FFF8E1;
+  --body-bg: #FFF8E1; 
   --title-color: #FF8F00;
 }
 html, body, h1, h2, h3 {
